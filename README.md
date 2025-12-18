@@ -1,7 +1,7 @@
 # Data Analysis Techniques
 
 ## Project Overview
-This repository demonstrates core data analysis techniques commonly used in real-world analytics workflows.
+This notebook demonstrates core data analysis techniques commonly used in real-world analytics workflows.
 Each notebook focuses on a specific analytical concept, using practical datasets to illustrate data preparation, transformation, and analysis.
 
 The project is designed to showcase proficiency in handling structured data using Python and Pandas.
@@ -10,10 +10,10 @@ The project is designed to showcase proficiency in handling structured data usin
 
 ## Project Structure
 
-data-analysis-techniques/
+```data-analysis-techniques/
 │
 ├── datasets/
-│ └── Datasets used across notebooks
+│ └── Titanic-Dataset.csv
 │
 ├── 01_data_cleaning.ipynb
 ├── 02_data_merging.ipynb
@@ -21,6 +21,7 @@ data-analysis-techniques/
 ├── 04_time_series_analysis.ipynb
 │
 └── README.md
+```
 
 ---
 
